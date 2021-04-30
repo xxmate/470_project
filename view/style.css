@@ -1,0 +1,14 @@
+body{
+    background-color: #3b3b3b;
+    
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	font-family: 'Courier New', monospace;
+	color: #ffe867;
+}
+
+html {
+    height: 100%;
+}
