@@ -1,1 +1,1 @@
-# 470_project
+Go to view/index.php
