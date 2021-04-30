@@ -1,1 +1,1 @@
-Go to view/index.php
+MVC project run video
